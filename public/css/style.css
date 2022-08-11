@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(230, 214, 149);
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Abel', sans-serif;
+    font-size: 50px;
+    color: blue;
+}
+
+p {
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 33px;
+}
+
+.parrafo-destacado {
+    color: blue;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+p strong {
+    background-color: blue;
+    color: white;
+}
+
+ul {
+    font-size: 120%;
+    padding-left: 43%;
+    padding-right: 43%;
+}
